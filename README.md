@@ -19,7 +19,7 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 
 ### Links
 
-- Live Site URL: 
+- Live Site URL: [https://testimonials-grid-neon.vercel.app/](https://testimonials-grid-neon.vercel.app/)
 
 ### Built with
 
